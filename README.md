@@ -6,7 +6,7 @@ of FY 2024 data across 120 orders, 5 product categories,
 and 4 regions.
 
 Dashboard Preview
-![Dashboard](Dashboard_final.png)
+![Dashboard](Dashboard_final.png.png)
 
 Key Insights
 - 💰 Total Revenue: ₹33.7L across 120 orders
