@@ -1,0 +1,121 @@
+Order_ID,Order_Date,Ship_Date,Customer_Name,Segment,Region,State,City,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit,Profit_Margin
+ORD-2024-0001,2024-01-03,2024-01-07,Ravi Kumar,Consumer,South,Tamil Nadu,Chennai,Technology,Phones,Samsung Galaxy A54,15200,2,0.1,3200,21.05
+ORD-2024-0002,2024-01-05,2024-01-09,Priya Sharma,Corporate,West,Maharashtra,Mumbai,Furniture,Chairs,Ergonomic Office Chair,8900,1,0.05,1200,13.48
+ORD-2024-0003,2024-01-07,2024-01-10,Anil Verma,Consumer,North,Delhi,New Delhi,Office Supplies,Binders,Heavy Duty Binder,1200,5,0.0,420,35.0
+ORD-2024-0004,2024-01-08,2024-01-12,Meena Iyer,Home Office,South,Karnataka,Bengaluru,Technology,Laptops,Lenovo IdeaPad 3,45000,1,0.15,5200,11.56
+ORD-2024-0005,2024-01-10,2024-01-14,Suresh Pillai,Consumer,South,Kerala,Kochi,Office Supplies,Paper,A4 Copy Paper,850,10,0.0,310,36.47
+ORD-2024-0006,2024-01-12,2024-01-16,Deepa Nair,Corporate,South,Tamil Nadu,Coimbatore,Furniture,Tables,Conference Table 6ft,22000,1,0.1,2800,12.73
+ORD-2024-0007,2024-01-15,2024-01-19,Rajesh Menon,Consumer,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse Keyboard,2400,3,0.05,680,28.33
+ORD-2024-0008,2024-01-18,2024-01-22,Anita Singh,Corporate,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,Filing Cabinet,12500,2,0.0,2100,16.8
+ORD-2024-0009,2024-01-20,2024-01-24,Karthik Raj,Consumer,South,Tamil Nadu,Madurai,Furniture,Bookcases,5-Shelf Bookcase,6800,1,0.05,900,13.24
+ORD-2024-0010,2024-01-22,2024-01-26,Sunita Patel,Home Office,West,Gujarat,Ahmedabad,Technology,Phones,iPhone 14,72000,1,0.05,8500,11.81
+ORD-2024-0011,2024-02-01,2024-02-05,Vikram Nair,Consumer,South,Kerala,Thiruvananthapuram,Office Supplies,Art,Sketch Pens Set,650,4,0.0,230,35.38
+ORD-2024-0012,2024-02-03,2024-02-07,Lakshmi Rao,Corporate,South,Andhra Pradesh,Visakhapatnam,Technology,Laptops,HP Pavilion 15,38000,2,0.1,4200,11.05
+ORD-2024-0013,2024-02-05,2024-02-09,Mohan Das,Consumer,East,West Bengal,Kolkata,Furniture,Chairs,Mesh Back Chair,5200,2,0.05,720,13.85
+ORD-2024-0014,2024-02-08,2024-02-12,Rekha Gupta,Home Office,North,Delhi,New Delhi,Technology,Accessories,USB-C Hub,3200,2,0.0,950,29.69
+ORD-2024-0015,2024-02-10,2024-02-14,Sanjay Kumar,Corporate,West,Maharashtra,Pune,Office Supplies,Binders,Lever Arch File,480,20,0.0,160,33.33
+ORD-2024-0016,2024-02-12,2024-02-16,Divya Krishnan,Consumer,South,Tamil Nadu,Chennai,Technology,Phones,OnePlus Nord 3,28000,1,0.05,3600,12.86
+ORD-2024-0017,2024-02-15,2024-02-19,Arjun Pillai,Corporate,South,Kerala,Kozhikode,Furniture,Tables,Study Desk,8500,3,0.1,1100,12.94
+ORD-2024-0018,2024-02-18,2024-02-22,Kavitha Menon,Consumer,South,Tamil Nadu,Tiruchirappalli,Office Supplies,Paper,Glossy Photo Paper,1100,6,0.0,390,35.45
+ORD-2024-0019,2024-02-20,2024-02-24,Prakash Rajan,Home Office,South,Tamil Nadu,Chennai,Technology,Laptops,Dell Inspiron 15,42000,1,0.15,4800,11.43
+ORD-2024-0020,2024-02-22,2024-02-26,Usha Reddy,Corporate,South,Telangana,Hyderabad,Furniture,Chairs,Executive Leather Chair,18000,4,0.05,2400,13.33
+ORD-2024-0021,2024-03-01,2024-03-05,Bala Subramaniam,Consumer,South,Tamil Nadu,Chennai,Office Supplies,Labels,Address Labels,320,8,0.0,110,34.38
+ORD-2024-0022,2024-03-03,2024-03-07,Chandra Mohan,Corporate,East,Odisha,Bhubaneswar,Technology,Accessories,Monitor 24 inch,18500,2,0.1,2200,11.89
+ORD-2024-0023,2024-03-05,2024-03-09,Hema Latha,Consumer,South,Karnataka,Mysuru,Furniture,Bookcases,Wall Shelf Set,3200,2,0.05,480,15.0
+ORD-2024-0024,2024-03-08,2024-03-12,Gopal Krishnan,Home Office,South,Tamil Nadu,Chennai,Technology,Phones,Realme 11 Pro,22000,2,0.0,3100,14.09
+ORD-2024-0025,2024-03-10,2024-03-14,Mala Devi,Corporate,West,Rajasthan,Jaipur,Office Supplies,Storage,Storage Box Set,1800,10,0.0,620,34.44
+ORD-2024-0026,2024-03-12,2024-03-16,Naresh Babu,Consumer,South,Tamil Nadu,Vellore,Technology,Laptops,Asus VivoBook 15,35000,1,0.1,4000,11.43
+ORD-2024-0027,2024-03-15,2024-03-19,Padma Priya,Corporate,South,Tamil Nadu,Coimbatore,Furniture,Tables,Height Adjustable Desk,32000,1,0.05,4200,13.13
+ORD-2024-0028,2024-03-18,2024-03-22,Raj Shankar,Consumer,North,Punjab,Chandigarh,Office Supplies,Binders,Presentation Binder,750,12,0.0,260,34.67
+ORD-2024-0029,2024-03-20,2024-03-24,Saranya Vijay,Home Office,South,Tamil Nadu,Chennai,Technology,Accessories,Webcam 1080p,4500,1,0.05,1300,28.89
+ORD-2024-0030,2024-03-22,2024-03-26,Thiru Kumar,Corporate,South,Andhra Pradesh,Guntur,Furniture,Chairs,Mesh Task Chair,7200,5,0.1,950,13.19
+ORD-2024-0031,2024-04-01,2024-04-05,Uma Shankar,Consumer,North,Delhi,New Delhi,Technology,Phones,Motorola Edge 40,26000,1,0.05,3400,13.08
+ORD-2024-0032,2024-04-03,2024-04-07,Vasuki Devi,Corporate,South,Tamil Nadu,Chennai,Office Supplies,Paper,Thermal Paper Rolls,2400,5,0.0,840,35.0
+ORD-2024-0033,2024-04-05,2024-04-09,Waran Raj,Consumer,South,Kerala,Thrissur,Technology,Laptops,Acer Aspire 5,31000,1,0.1,3500,11.29
+ORD-2024-0034,2024-04-08,2024-04-12,Xavier Pinto,Home Office,West,Goa,Panaji,Furniture,Tables,Folding Table Set,4800,2,0.0,750,15.63
+ORD-2024-0035,2024-04-10,2024-04-14,Yamuna Devi,Corporate,South,Karnataka,Bengaluru,Office Supplies,Storage,Document Organizer,2100,8,0.05,720,34.29
+ORD-2024-0036,2024-04-12,2024-04-16,Zara Khan,Consumer,North,Delhi,New Delhi,Technology,Accessories,Noise Cancelling Headphones,8900,2,0.1,2100,23.6
+ORD-2024-0037,2024-04-15,2024-04-19,Ashok Kumar,Corporate,South,Tamil Nadu,Salem,Furniture,Chairs,Visitor Chair Set,14000,1,0.05,1900,13.57
+ORD-2024-0038,2024-04-18,2024-04-22,Bhavana Rao,Consumer,South,Tamil Nadu,Chennai,Technology,Phones,Vivo V29,24000,3,0.0,3300,13.75
+ORD-2024-0039,2024-04-20,2024-04-24,Chitra Devi,Home Office,East,Tamil Nadu,Chennai,Office Supplies,Art,Whiteboard Markers,420,15,0.0,145,34.52
+ORD-2024-0040,2024-04-22,2024-04-26,Dinesh Raj,Corporate,South,Tamil Nadu,Chennai,Technology,Laptops,MSI Modern 15,55000,2,0.15,6200,11.27
+ORD-2024-0041,2024-05-01,2024-05-05,Ezhil Kumar,Consumer,South,Tamil Nadu,Tirunelveli,Furniture,Bookcases,Cube Shelf 9-Grid,5600,1,0.0,870,15.54
+ORD-2024-0042,2024-05-03,2024-05-07,Fatima Begum,Corporate,West,Maharashtra,Mumbai,Technology,Accessories,Portable SSD 1TB,6800,3,0.05,1950,28.68
+ORD-2024-0043,2024-05-05,2024-05-09,Gokul Krishnan,Consumer,South,Tamil Nadu,Chennai,Office Supplies,Binders,Ring Binder A4 Set,890,10,0.0,310,34.83
+ORD-2024-0044,2024-05-08,2024-05-12,Haripriya Nair,Home Office,South,Kerala,Kochi,Technology,Phones,Samsung Galaxy S23,85000,1,0.1,9500,11.18
+ORD-2024-0045,2024-05-10,2024-05-14,Indu Sharma,Corporate,North,Haryana,Gurugram,Furniture,Tables,Meeting Room Table,45000,1,0.05,5800,12.89
+ORD-2024-0046,2024-05-12,2024-05-16,Jeeva Raman,Consumer,South,Tamil Nadu,Madurai,Technology,Laptops,Lenovo ThinkPad E15,62000,1,0.1,7200,11.61
+ORD-2024-0047,2024-05-15,2024-05-19,Kaviya Lakshmi,Corporate,South,Tamil Nadu,Coimbatore,Office Supplies,Paper,Sticky Notes Bulk,1650,20,0.0,575,34.85
+ORD-2024-0048,2024-05-18,2024-05-22,Logesh Raj,Consumer,South,Tamil Nadu,Chennai,Technology,Accessories,Graphics Tablet,12000,1,0.05,3400,28.33
+ORD-2024-0049,2024-05-20,2024-05-24,Madhuri Devi,Home Office,West,Maharashtra,Nashik,Furniture,Chairs,Gaming Chair,21000,1,0.0,2900,13.81
+ORD-2024-0050,2024-05-22,2024-05-26,Naveen Raj,Corporate,South,Tamil Nadu,Chennai,Technology,Phones,Apple iPhone 15,95000,2,0.05,10500,11.05
+ORD-2024-0051,2024-06-01,2024-06-05,Oviya Kumar,Consumer,South,Tamil Nadu,Chennai,Office Supplies,Storage,Filing Box Set,3200,4,0.0,1120,35.0
+ORD-2024-0052,2024-06-03,2024-06-07,Prabhu Deva,Corporate,South,Karnataka,Bengaluru,Technology,Laptops,Apple MacBook Air M2,112000,1,0.05,12500,11.16
+ORD-2024-0053,2024-06-05,2024-06-09,Queen Mary,Consumer,South,Tamil Nadu,Chennai,Furniture,Tables,L-Shaped Corner Desk,18500,1,0.1,2400,12.97
+ORD-2024-0054,2024-06-08,2024-06-12,Rajan Pillai,Home Office,South,Kerala,Palakkad,Technology,Accessories,Smart Speaker,4200,2,0.0,1200,28.57
+ORD-2024-0055,2024-06-10,2024-06-14,Selvi Nair,Corporate,South,Tamil Nadu,Chennai,Office Supplies,Binders,D-Ring Binder Set,1200,8,0.0,420,35.0
+ORD-2024-0056,2024-06-12,2024-06-16,Tamilarasi R,Consumer,South,Tamil Nadu,Chennai,Technology,Phones,Xiaomi Redmi Note 13,18000,4,0.0,2520,14.0
+ORD-2024-0057,2024-06-15,2024-06-19,Umarani Devi,Corporate,South,Andhra Pradesh,Vijayawada,Furniture,Chairs,Ergonomic Chair Pro,25000,2,0.1,3300,13.2
+ORD-2024-0058,2024-06-18,2024-06-22,Vasanth Kumar,Consumer,South,Tamil Nadu,Vellore,Technology,Laptops,HP Spectre x360,88000,1,0.15,9800,11.14
+ORD-2024-0059,2024-06-20,2024-06-24,Winona Raj,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Paper,Premium A4 Paper,950,8,0.0,332,34.95
+ORD-2024-0060,2024-06-22,2024-06-26,Xavier Durai,Corporate,South,Tamil Nadu,Coimbatore,Technology,Accessories,Projector WXGA,28000,1,0.05,7800,27.86
+ORD-2024-0061,2024-07-01,2024-07-05,Yamini Devi,Consumer,South,Tamil Nadu,Chennai,Furniture,Bookcases,Tall Display Bookcase,9200,1,0.0,1430,15.54
+ORD-2024-0062,2024-07-03,2024-07-07,Aakash Raj,Corporate,North,Delhi,New Delhi,Technology,Phones,Google Pixel 8,65000,1,0.1,7200,11.08
+ORD-2024-0063,2024-07-05,2024-07-09,Bharathi Devi,Consumer,South,Tamil Nadu,Chennai,Office Supplies,Art,Acrylic Paint Set,1800,3,0.0,630,35.0
+ORD-2024-0064,2024-07-08,2024-07-12,Chandan Kumar,Home Office,East,West Bengal,Kolkata,Technology,Laptops,Lenovo Legion 5,85000,1,0.1,9500,11.18
+ORD-2024-0065,2024-07-10,2024-07-14,Deepika Nair,Corporate,South,Kerala,Kochi,Furniture,Tables,Adjustable Laptop Stand,3200,6,0.0,1120,35.0
+ORD-2024-0066,2024-07-12,2024-07-16,Elan Raj,Consumer,South,Tamil Nadu,Chennai,Technology,Accessories,Mechanical Keyboard,5800,2,0.05,1640,28.28
+ORD-2024-0067,2024-07-15,2024-07-19,Fathima Zohra,Corporate,West,Maharashtra,Mumbai,Office Supplies,Storage,Drawer Organizer Set,1650,12,0.0,577,34.97
+ORD-2024-0068,2024-07-18,2024-07-22,Guhan Kumar,Consumer,South,Tamil Nadu,Madurai,Technology,Phones,iQOO Neo 9,32000,1,0.05,4480,14.0
+ORD-2024-0069,2024-07-20,2024-07-24,Harini Devi,Home Office,South,Tamil Nadu,Chennai,Furniture,Chairs,Recliner Office Chair,35000,1,0.05,4550,13.0
+ORD-2024-0070,2024-07-22,2024-07-26,Ilayaraja K,Corporate,South,Tamil Nadu,Tiruchirappalli,Technology,Laptops,Dell XPS 15,125000,1,0.1,14000,11.2
+ORD-2024-0071,2024-08-01,2024-08-05,Janaki Rani,Consumer,South,Tamil Nadu,Chennai,Office Supplies,Binders,Project File Set,1400,6,0.0,490,35.0
+ORD-2024-0072,2024-08-03,2024-08-07,Kalaivani M,Corporate,South,Tamil Nadu,Coimbatore,Technology,Accessories,Docking Station USB-C,9500,3,0.05,2660,27.99
+ORD-2024-0073,2024-08-05,2024-08-09,Loganathan R,Consumer,South,Tamil Nadu,Chennai,Furniture,Tables,Coffee Table Round,7800,1,0.0,1210,15.51
+ORD-2024-0074,2024-08-08,2024-08-12,Mangai Devi,Home Office,South,Tamil Nadu,Chennai,Technology,Phones,Samsung Galaxy A34,21000,2,0.0,2940,14.0
+ORD-2024-0075,2024-08-10,2024-08-14,Nithya Raj,Corporate,South,Karnataka,Bengaluru,Office Supplies,Paper,Colour Paper A4,1200,10,0.0,420,35.0
+ORD-2024-0076,2024-08-12,2024-08-16,Ojas Patel,Consumer,West,Gujarat,Surat,Technology,Laptops,Asus ROG Zephyrus,145000,1,0.15,16000,11.03
+ORD-2024-0077,2024-08-15,2024-08-19,Padmanaban S,Corporate,South,Tamil Nadu,Chennai,Furniture,Chairs,Bar Stool Set,8500,2,0.05,1105,13.0
+ORD-2024-0078,2024-08-18,2024-08-22,Revathi Kumar,Consumer,South,Tamil Nadu,Salem,Technology,Accessories,Ring Light 18 inch,3800,1,0.0,1083,28.5
+ORD-2024-0079,2024-08-20,2024-08-24,Sakthi Vel,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Storage,Wall Mount File Holder,980,15,0.0,343,35.0
+ORD-2024-0080,2024-08-22,2024-08-26,Tamil Selvan,Corporate,South,Tamil Nadu,Chennai,Technology,Phones,OnePlus 12,65000,1,0.1,7150,11.0
+ORD-2024-0081,2024-09-01,2024-09-05,Uma Mahesh,Consumer,South,Andhra Pradesh,Visakhapatnam,Furniture,Bookcases,Corner Shelf Unit,6200,1,0.0,963,15.53
+ORD-2024-0082,2024-09-03,2024-09-07,Venkata Rao,Corporate,South,Telangana,Hyderabad,Technology,Laptops,Microsoft Surface Pro,92000,1,0.1,10200,11.09
+ORD-2024-0083,2024-09-05,2024-09-09,Wridhhi Sharma,Consumer,North,Delhi,New Delhi,Office Supplies,Art,Oil Colour Set,2200,2,0.0,770,35.0
+ORD-2024-0084,2024-09-08,2024-09-12,Xena Durai,Home Office,South,Tamil Nadu,Coimbatore,Technology,Accessories,LED Desk Lamp,2800,4,0.05,784,28.0
+ORD-2024-0085,2024-09-10,2024-09-14,Yashoda Devi,Corporate,West,Maharashtra,Mumbai,Furniture,Tables,Glass Top Desk,28000,1,0.05,3640,13.0
+ORD-2024-0086,2024-09-12,2024-09-16,Zubair Khan,Consumer,North,Delhi,New Delhi,Technology,Phones,Oppo Reno 11,27000,2,0.0,3780,14.0
+ORD-2024-0087,2024-09-15,2024-09-19,Aadhav Raj,Corporate,South,Tamil Nadu,Chennai,Office Supplies,Binders,Certificate Holder Set,650,25,0.0,227,34.92
+ORD-2024-0088,2024-09-18,2024-09-22,Brindha Kumar,Consumer,South,Tamil Nadu,Chennai,Technology,Laptops,HP EliteBook 840,78000,1,0.1,8700,11.15
+ORD-2024-0089,2024-09-20,2024-09-24,Chandru Devi,Home Office,South,Tamil Nadu,Chennai,Furniture,Chairs,Accent Chair Set,16500,1,0.0,2557,15.5
+ORD-2024-0090,2024-09-22,2024-09-26,Dhanush R,Corporate,South,Tamil Nadu,Madurai,Technology,Accessories,Smart Watch,12500,3,0.05,3488,27.9
+ORD-2024-0091,2024-10-01,2024-10-05,Eswari Nair,Consumer,South,Kerala,Kochi,Office Supplies,Paper,Bond Paper A4,780,12,0.0,273,35.0
+ORD-2024-0092,2024-10-03,2024-10-07,Falan Kumar,Corporate,South,Tamil Nadu,Chennai,Technology,Phones,Motorola Razr 40,45000,1,0.1,4950,11.0
+ORD-2024-0093,2024-10-05,2024-10-09,Gayathri Raj,Consumer,South,Tamil Nadu,Chennai,Furniture,Tables,Dining Study Table,12000,1,0.05,1560,13.0
+ORD-2024-0094,2024-10-08,2024-10-12,Hari Babu,Home Office,South,Tamil Nadu,Salem,Technology,Laptops,Lenovo IdeaPad Gaming,55000,1,0.15,6050,11.0
+ORD-2024-0095,2024-10-10,2024-10-14,Indumathi S,Corporate,South,Karnataka,Bengaluru,Office Supplies,Storage,Desktop Organizer,1800,10,0.0,630,35.0
+ORD-2024-0096,2024-10-12,2024-10-16,Jagadish Kumar,Consumer,South,Tamil Nadu,Chennai,Technology,Accessories,Bluetooth Speaker,6500,2,0.05,1820,28.0
+ORD-2024-0097,2024-10-15,2024-10-19,Kamala Devi,Corporate,South,Tamil Nadu,Coimbatore,Furniture,Chairs,Conference Chair Set,42000,1,0.1,5460,13.0
+ORD-2024-0098,2024-10-18,2024-10-22,Lalitha Raj,Consumer,South,Tamil Nadu,Chennai,Technology,Phones,Vivo X90,38000,1,0.05,4180,11.0
+ORD-2024-0099,2024-10-20,2024-10-24,Muthuraman S,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Binders,Expanding File Folder,850,18,0.0,297,34.94
+ORD-2024-0100,2024-10-22,2024-10-26,Nalini Kumar,Corporate,South,Tamil Nadu,Chennai,Technology,Laptops,Samsung Galaxy Book3,72000,1,0.1,7920,11.0
+ORD-2024-0101,2024-11-01,2024-11-05,Omprakash R,Consumer,South,Tamil Nadu,Chennai,Furniture,Bookcases,Bamboo Shelf 5-Tier,7500,2,0.0,1162,15.49
+ORD-2024-0102,2024-11-03,2024-11-07,Ponni Devi,Corporate,South,Tamil Nadu,Tiruchirappalli,Technology,Accessories,Thunderbolt Monitor 27,55000,1,0.05,15290,27.8
+ORD-2024-0103,2024-11-05,2024-11-09,Rajkumar S,Consumer,South,Tamil Nadu,Chennai,Office Supplies,Paper,Kraft Paper Roll,560,20,0.0,196,35.0
+ORD-2024-0104,2024-11-08,2024-11-12,Suganya Nair,Home Office,South,Kerala,Thrissur,Technology,Phones,Google Pixel 7a,42000,1,0.1,4620,11.0
+ORD-2024-0105,2024-11-10,2024-11-14,Thangam Raj,Corporate,South,Tamil Nadu,Chennai,Furniture,Tables,Solid Wood Office Desk,35000,2,0.1,4550,13.0
+ORD-2024-0106,2024-11-12,2024-11-16,Usha Kumari,Consumer,South,Tamil Nadu,Vellore,Technology,Laptops,ASUS Zenbook 14,68000,1,0.1,7480,11.0
+ORD-2024-0107,2024-11-15,2024-11-19,Vasantha Devi,Corporate,South,Andhra Pradesh,Guntur,Office Supplies,Storage,Locker Cabinet,15000,2,0.05,3900,26.0
+ORD-2024-0108,2024-11-18,2024-11-22,Vijayalakshmi M,Consumer,South,Tamil Nadu,Chennai,Technology,Accessories,4K Webcam,8200,1,0.05,2296,28.0
+ORD-2024-0109,2024-11-20,2024-11-24,Winfred Raj,Home Office,South,Tamil Nadu,Chennai,Furniture,Chairs,Kneeling Chair,9500,2,0.0,1472,15.49
+ORD-2024-0110,2024-11-22,2024-11-26,Xavier Kumar,Corporate,South,Tamil Nadu,Coimbatore,Technology,Phones,Samsung Galaxy Z Flip5,95000,1,0.1,10450,11.0
+ORD-2024-0111,2024-12-01,2024-12-05,Yazhini Devi,Consumer,South,Tamil Nadu,Chennai,Office Supplies,Art,Calligraphy Pen Set,980,5,0.0,343,35.0
+ORD-2024-0112,2024-12-03,2024-12-07,Anand Kumar,Corporate,North,Delhi,New Delhi,Technology,Laptops,Apple MacBook Pro M3,185000,1,0.05,20350,11.0
+ORD-2024-0113,2024-12-05,2024-12-09,Bhavani Rao,Consumer,South,Tamil Nadu,Chennai,Furniture,Tables,Sofa Side Table Set,5800,1,0.0,899,15.5
+ORD-2024-0114,2024-12-08,2024-12-12,Chelladurai R,Home Office,South,Tamil Nadu,Salem,Technology,Accessories,Ergonomic Mouse,2800,3,0.05,784,28.0
+ORD-2024-0115,2024-12-10,2024-12-14,Devaki Nair,Corporate,South,Kerala,Kochi,Office Supplies,Binders,Locking Binder Set,1800,10,0.0,630,35.0
+ORD-2024-0116,2024-12-12,2024-12-16,Elango Raj,Consumer,South,Tamil Nadu,Chennai,Technology,Phones,Nothing Phone 2,35000,2,0.05,3850,11.0
+ORD-2024-0117,2024-12-15,2024-12-19,Femi Thomas,Corporate,South,Tamil Nadu,Coimbatore,Furniture,Chairs,Revolving Chair Set,28000,1,0.1,3640,13.0
+ORD-2024-0118,2024-12-18,2024-12-22,Gokilavani S,Consumer,South,Tamil Nadu,Chennai,Technology,Laptops,HP OMEN 16,92000,1,0.1,10120,11.0
+ORD-2024-0119,2024-12-20,2024-12-24,Hemalatha Raj,Home Office,South,Tamil Nadu,Chennai,Office Supplies,Paper,Watercolour Paper Pad,1600,4,0.0,560,35.0
+ORD-2024-0120,2024-12-22,2024-12-26,Ilakiya Kumar,Corporate,South,Tamil Nadu,Chennai,Technology,Accessories,VR Headset,28000,1,0.05,7784,27.8
