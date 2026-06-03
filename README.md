@@ -6,7 +6,7 @@ of FY 2024 data across 120 orders, 5 product categories,
 and 4 regions.
 
 Dashboard Preview
-![Dashboard](Sales%20Dashboard/Data/Dashboard_final.png.png)
+![Dashboard](Sales%20Dashboard/Data/Dashboard_final.png)
 
 
 Key Insights
