@@ -1,4 +1,4 @@
-📊 Sales Performance Dashboard
+#📊 Sales Performance Dashboard
 
 Overview
 Interactive sales analytics dashboard analyzing 12 months 
